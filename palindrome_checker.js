@@ -14,8 +14,8 @@ function palindrome(str) {
 
     // compare origStr to reverseStr
     if (origStr === reverseStr) {
-        return true
+        return true;
     } else {
-        return false
+        return false;
     }
 }
